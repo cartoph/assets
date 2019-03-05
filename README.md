@@ -1,0 +1,2 @@
+# assets
+Comprehensive assets directory
